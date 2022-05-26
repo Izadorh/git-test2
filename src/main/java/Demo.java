@@ -6,5 +6,7 @@ public class Demo {
         System.out.println("hot-fix修改");
         System.out.println("push test");
         System.out.println("push test2");
+        System.out.println("pull test");
+            
     }
 }
