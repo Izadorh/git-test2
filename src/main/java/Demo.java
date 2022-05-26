@@ -4,5 +4,6 @@ public class Demo {
         System.out.println("第一次修改");
         System.out.println("第二次修改");
         System.out.println("hot-fix修改");
+        System.out.println("push test");
     }
 }
